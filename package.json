@@ -28,7 +28,7 @@
     "typescript": "^3.9.2"
   },
   "optionalDependencies": {
-    "aws-sdk": "^2.683.0"
+    "aws-sdk": "^2.814.0"
   },
   "dependencies": {
     "node-qpdf2": "^1.1.1",
